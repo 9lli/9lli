@@ -9,10 +9,10 @@
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,git,github" alt="C, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </p>
 
 <h2 align="left">🌱 Learning</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,docker,postgres,aws,gitlab" alt="Python, Docker, PostgreSQL, AWS, GitLab" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,go,docker,postgres,mongodb,aws,git,github,gitlab" alt="Python, JavaScript, TypeScript, Go, Docker, PostgreSQL, MongoDB, AWS, Git, GitHub, GitLab" />
 </p>
