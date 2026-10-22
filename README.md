@@ -10,7 +10,7 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
-</p>
+
 
 <h2 align="left">🌱 Learning</h2>
 <p align="left">
