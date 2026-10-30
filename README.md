@@ -10,9 +10,11 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
-
+</p>
 
 <h2 align="left">🌱 Learning</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,go,docker,postgres,mongodb,aws,git,github,gitlab" alt="Python, JavaScript, TypeScript, Go, Docker, PostgreSQL, MongoDB, AWS, Git, GitHub, GitLab" />
 </p>
+
+"A jack of all trades is a master of none, but oftentimes better than a master of one."
